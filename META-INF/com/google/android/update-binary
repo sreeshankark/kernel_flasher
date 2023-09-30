@@ -465,7 +465,7 @@ ui_print "=========================================";
 ui_print "Based on Linux Kernel KERNEL_VERSION_STRING";
 ui_print "=========================================";
 ui_print "Maintained by $MAINTAINER_STRING";
-ui_print "Sanju0910@github.com ";
+ui_print "sreeshankark@github.com ";
 ui_print "=========================================";
 ui_print "Powered by";
 ui_print "AnyKernel3 by Chris Renshaw";
